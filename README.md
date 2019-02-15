@@ -1,1 +1,1 @@
-# Python-Basics-Workshop
+# Python Basics Workshop Notebooks
